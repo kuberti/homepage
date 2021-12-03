@@ -6,4 +6,6 @@ Cafe Happy is a Taiwanese cafe and boba tea shop that I started working at aroun
 
 EPSchedule is an online scheduling website made by me and my partner to help students at our high school keep track of their schedules. The schedules shift every day at school, so it's become indispensable since it's creation four years ago. I've helped to update the platform for changes due to COVID, put student photos so that students can see who is in their classes, and other changes to the UI.
 
+I've also included my resume in this folder for ease of access on other platforms. 
+
 Please reach out to me at kalie.c.uberti@gmail.com if you have any specific questions! 
